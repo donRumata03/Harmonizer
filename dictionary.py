@@ -19,7 +19,7 @@ test_chords = {
     "Increased sept ( aka Caug7 )" : [4, 4, 3],
 
     "Sus 2 ( aka Csus2 )" : [2, 5],
-    "Sus 4 ( aka Csus2 )" : [5, 2],
+    "Sus 4 ( aka Csus4 )" : [5, 2],
 
     "Nonachord ( aka Cmaj9 )" : [4, 3, 4, 3]
 }
